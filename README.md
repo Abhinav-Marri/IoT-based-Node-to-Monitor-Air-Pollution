@@ -4,9 +4,12 @@ Designed and built an mobile IoT-based node to monitor air quality. The node pow
 The document `Presentation.pdf` contains a summary of the motivation, implementation and results of the project. 
 
 ## Results : 
-Node :
+**Node :** <br>
+
 ![image](https://github.com/user-attachments/assets/ae954145-fe84-46ab-8c7a-315c4e6b37d2)
-Dashboard :
+<br>
+**Dashboard :** <br>
+
 ![image](https://github.com/user-attachments/assets/7a5993f0-6ebb-4bbd-ab01-bd5ac05078e9)
 ![image](https://github.com/user-attachments/assets/51d3c853-d391-4130-aea5-1d31e0187501)
 
